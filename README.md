@@ -1,16 +1,35 @@
-<h1 align="center">Hi 👋, I'm karim ait yahia</h1>
-<h3 align="center">A front-end developer</h3>
+# Hi there, I'm Karim Ait Yahia 👋 🇲🇦
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lacamoura48&label=Profile%20views&color=0e75b6&style=flat" alt="lacamoura48" /> </p>
+### 👨‍💻 Software Engineer at build | Web Developer
 
+I am a 17-year-old developer from Morocco, deeply passionate about crafting high-performance, interactive, and user-centric web applications. I specialize in modern JavaScript frameworks and cutting-edge styling libraries.
 
-- 📫 How to reach me **karimaityahia98@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🛠️ My Tech Stack
 
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karim5" height="30" width="40" /></a>
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), **React.js**, **Tailwind CSS** |
+| **Frameworks** | Next.js, Vite |
+| **CMS** | WordPress, Headless CMS |
+| **Tools** | Git, GitHub, Figma, Postman |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> </a> </p>
+---
+
+### 📈 What I'm working on
+* 🔭 I’m currently at **build**, engineering scalable web solutions.
+* 🌱 I’m constantly diving deeper into **Advanced React patterns** and **Performance Optimization**.
+* ⚡ Fun fact: I started my dev journey early and haven't stopped "building" since.
+
+---
+
+### 📊 GitHub Stats
+![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL)
